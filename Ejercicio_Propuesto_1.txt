@@ -1,0 +1,11 @@
+Un Deposito quiere almacenar productos en sus bodegas.
+
+El gerente requiere lo siguiente :
+
+a - Cargar productos con su nombre,precio de venta y categoria.
+b - Las categorías pueden ser Comestible, Limpieza, Vestimenta o Electrodoméstico.
+c - Una sección donde se pueda calcular la cantidad de productos de una categoría determinada.
+d - Una sección donde pueda calcular el precio total de venta de todos los productos de una categoría.
+e - Una sección que muestre todos los productos de una misma categoría.
+
+
